@@ -1,6 +1,3 @@
-# Short Description
-Slay The Spire Mod that adds a few cards and relics.
-
 # Relics
 ### Red/Blue/Green Pill
 Adds the cards of the corresponding color to the reward pool. If you play the character of that color it adds colorless cards to the pool instead.
